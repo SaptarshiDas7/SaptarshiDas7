@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hello 👋</h1>
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Saptarshi Das</h1>
 <p align="center">MACHINE LEARNING ENTHUSIAST</p>
 <p align="center">
