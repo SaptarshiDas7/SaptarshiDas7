@@ -20,7 +20,7 @@
 <h3>My name is Saptarshi Das.</h3> 
 <p>I am a fourth year Undergraduate student at Jadavpur University, currently pursuing Informartion Technology as my major. I am expected to gradute in the year of 2022.</p>
 
-<p>Link to Personal Website:<span>  </span> </p>
+<p>Link to Personal Website:<span> https://saptarshidas7.github.io/CV/  </span> </p>
 <br></br>
 <br></br>
 
