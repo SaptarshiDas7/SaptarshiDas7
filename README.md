@@ -24,6 +24,7 @@
 <br></br>
 <br></br>
 
+<!--
 <!-- <img width=100\\% src="https://github-readme-stats.vercel.app/api/wakatime?username=615782de-bdb1-4bae-abb9-633d3e09ab55&custom_title=Today's Coding Stats" />
 <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane07092000&hide=html,css&layout=compact&langs_count=6" /> -->
 <h2 align="center">My Coding Stats</h2>
@@ -48,5 +49,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--!>
 
 
